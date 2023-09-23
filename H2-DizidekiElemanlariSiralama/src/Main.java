@@ -19,6 +19,9 @@ public class Main {
 
 
 
-      }
   }
+  Arrays.sort(sayilar);
+  System.out.print(Arrays.toString(sayilar));
+    }
+
     }
